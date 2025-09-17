@@ -12,7 +12,7 @@ function Chatting_space() {
                 <div className="texting">
                     <input type="text" name="text" id="text" placeholder="write something"/>
                     <button className="text_btn">
-                        <i className="bi bi send"></i>
+                        <i className="bi bi-send"></i>
                     </button>
                 </div>
             </div>

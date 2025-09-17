@@ -14,6 +14,14 @@ function Sider() {
                     <img src="https://picsum.photos/200/300" alt="profile" />
                     <p>Regge</p>
                 </div>
+                <div id="3">
+                    <img src="https://picsum.photos/200/300" alt="profile" />
+                    <p>Blair</p>
+                </div>
+                <div id="4">
+                    <img src="https://picsum.photos/200/300" alt="profile" />
+                    <p>Malesh</p>
+                </div>
             </div>
         </>
     );
